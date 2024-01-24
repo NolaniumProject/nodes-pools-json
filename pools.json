@@ -1,0 +1,32 @@
+{
+  "pools" : [
+    {
+      "name" : "Nolanium Official Pool",
+      "url" : "https://pool.nolanium.xyz/",
+      "api" : "https://pool.nolanium.xyz:8118/",
+      "type" : "node.js",
+      "miningAddress" : "pool.nolanium.xyz"
+    },
+    {
+      "name" : "NLM Pool DDNS",
+      "url" : "https://nlmpool.ddns.net/",
+      "api" : "https://nlmpool.ddns.net/nlm_api/",
+      "type" : "node.js",
+      "miningAddress" : "nlmpool.ddns.net"
+    },
+    {
+      "name" : "MinerGalaxy Nolanium",
+      "url" : "http://minergalaxy.org/NLM/",
+      "api" : "http://75.119.138.68:8117/",
+      "type" : "node.js",
+      "miningAddress" : "75.119.138.68"
+    },
+    {
+      "name" : "NoxPool Nolanium",
+      "url" : "https://nolanium.noxpool.com/",
+      "api" : "https://nolanium.noxpool.xyz/api/",
+      "type" : "node.js",
+      "miningAddress" : "nolanium.noxpool.xyz"
+    }
+  ]
+}
