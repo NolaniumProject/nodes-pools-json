@@ -27,6 +27,13 @@
       "api" : "https://nolanium.noxpool.xyz/api/",
       "type" : "node.js",
       "miningAddress" : "nolanium.noxpool.xyz"
+    },
+    {
+      "name" : "Memoria Online",
+      "url" : "https://memoria-online.eu/",
+      "api" : "https://memoria-online.eu/api/",
+      "type" : "node.js",
+      "miningAddress" : "memoria-online.eu"
     }
   ]
 }
