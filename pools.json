@@ -34,6 +34,13 @@
       "api" : "https://memoria-online.eu/api/",
       "type" : "node.js",
       "miningAddress" : "memoria-online.eu"
+    },
+    {
+      "name" : "Milonius Pool",
+      "url" : "https://nolanium.milonius-pool.xyz/",
+      "api" : "https://nolanium.milonius-pool.xyz/api/",
+      "type" : "node.js",
+      "miningAddress" : "nolanium.milonius-pool.xyz"
     }
   ]
 }
